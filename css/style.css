@@ -523,11 +523,19 @@ footer {
   }
 
   .showcase {
-    height: 65vh;
+    height: 70vh;
   }
 
   .showcase h1 {
-    line-height: 45px;
+    font-size: 1.875rem;
+    line-height: 40px;
+  }
+
+  .showcase p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 1rem;
   }
 
   .service-item {
